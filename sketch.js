@@ -78,11 +78,11 @@ function draw() {
   
  
   //create ellipse shape for multiple bobs here
-  ellipse(body.position.x,body.position.y,40,40);
-  ellipse(body1.position.x,body1.position.y,40,40);
-  ellipse(body2.position.x,body2.position.y,40,40);
-  ellipse(body3.position.x,body3.position.y,40,40);
-  ellipse(body4.position.x,body4.position.y,40,40);
+  ellipse(body.position.x,body.position.y,80,80);
+  ellipse(body1.position.x,body1.position.y,80,80);
+  ellipse(body2.position.x,body2.position.y,80,80);
+  ellipse(body3.position.x,body3.position.y,80,80);
+  ellipse(body4.position.x,body4.position.y,80,80);
   
 
   
